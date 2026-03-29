@@ -1,0 +1,33 @@
+# ======================
+# Android / Jetpack Compose
+# ======================
+
+.gradle/
+build/
+app/build/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# ======================
+# Java / Spring Boot
+# ======================
+
+target/
+*.log
+
+# ======================
+# IDE
+# ======================
+
+.idea/
+.vscode/
+*.iml
+
+# ======================
+# OS
+# ======================
+
+.DS_Store
+Thumbs.db
