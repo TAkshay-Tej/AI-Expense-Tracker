@@ -1,5 +1,4 @@
-// ── Match RetrofitClient.kt BASE_URL ──────────────────────
-const BASE_URL = "http://localhost:8080";
+const BASE_URL = import.meta.env.VITE_API_URL || "http://localhost:8081";
 
 const getToken  = ()      => localStorage.getItem("jwt_token");
 const getBearer = ()      => `Bearer ${getToken()}`;
