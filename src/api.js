@@ -1,5 +1,5 @@
 // ── Match RetrofitClient.kt BASE_URL ──────────────────────
-const BASE_URL = "http://localhost:8082";
+const BASE_URL = "http://localhost:8080";
 
 const getToken  = ()      => localStorage.getItem("jwt_token");
 const getBearer = ()      => `Bearer ${getToken()}`;
