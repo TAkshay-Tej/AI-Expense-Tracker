@@ -359,11 +359,3 @@ Backend environment variables (read in `application.properties`):
 | `OPENAI_API_KEY`             | Groq API key                                    |
 | `OPENAI_GROK_URL`            | OpenAI-compatible base URL for Groq             |
 
-Fixed settings:
-
-```properties
-jwt.expiration=86400000                                   # 24 hours
-spring.ai.openai.chat.options.model=llama-3.3-70b-versatile
-spring.ai.openai.chat.options.temperature=0.3
-spring.jpa.hibernate.ddl-auto=update
-```
