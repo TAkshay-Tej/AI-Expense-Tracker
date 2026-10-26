@@ -6,8 +6,6 @@ An Android expense tracker that **automatically categorizes transactions with AI
 
 ## Screenshots
 
-## Screenshots
-
 <p align="center">
   <img src="pics/app1.jpeg" width="30%" alt="Dashboard">
   <img src="pics/app2.jpeg" width="30%" alt="Expense Overview">
