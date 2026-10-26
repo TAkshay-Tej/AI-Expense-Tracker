@@ -4,6 +4,26 @@ An Android expense tracker that **automatically categorizes transactions with AI
 
 ---
 
+## Screenshots
+
+## Screenshots
+
+<p align="center">
+  <img src="pics/app1.jpeg" width="30%" alt="Dashboard">
+  <img src="pics/app2.jpeg" width="30%" alt="Expense Overview">
+  <img src="pics/app3.jpeg" width="30%" alt="Analytics">
+</p>
+
+<p align="center">
+  <img src="pics/app4.jpeg" width="30%" alt="Transactions">
+  <img src="pics/app5.jpeg" width="30%" alt="Budget Tracking">
+  <img src="pics/app6.jpeg" width="30%" alt="Additional Features">
+</p>
+
+## Demo Video
+
+[▶️ Watch the Expense Tracker Demo](pics/expense%20tracker.mp4)
+
 ## Table of Contents
 
 1. [Features](#features)
